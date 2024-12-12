@@ -1,10 +1,10 @@
 extends CharacterBody2D
 
 @onready var knight: AnimatedSprite2D = $Knight
-const SPEED = 900.0
-const JUMP_VELOCITY = -400.0 
+const SPEED = 600.0
+const JUMP_VELOCITY = -200.0 
 const gravity = 900.0
-const fallspeed = 1000.0
+const fallspeed = 5000.0
 
 
 

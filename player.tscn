@@ -472,7 +472,7 @@ z_index = 1
 sprite_frames = SubResource("SpriteFrames_jh6xh")
 animation = &"Jump"
 autoplay = "Attack 1"
-frame_progress = 0.308063
+frame_progress = 0.467759
 speed_scale = 1.5
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
